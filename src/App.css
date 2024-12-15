@@ -1,0 +1,95 @@
+
+/* Body background gradient */
+body {
+  font-family: sans-serif;
+  color: #333;
+}
+
+/* Header styling */
+header {
+  background: #383880;
+  border-bottom: 3px solid #ffc107;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+header h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+header .nav-link {
+  color: #ffc107;
+  transition: color 0.3s ease-in-out;
+}
+
+header .nav-link:hover {
+  color: #ebb84b;
+  text-decoration: underline;
+}
+
+/* Section styling */
+section {
+  margin-bottom: 2rem;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#aboutTheProject {
+  background: #fff;
+}
+
+#demo {
+  background: #fff;
+  color: #fff;
+}
+
+#download {
+  background: #333;
+  color: #fff;
+}
+
+/* Section titles */
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+/* Video styling */
+video {
+  border: 5px solid #fff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Button styling */
+.btn-primary {
+  background: #333;
+  border: none;
+  font-weight: bold;
+  padding: 0.8rem 1.5rem;
+  border-radius: 5px;
+  transition: background 0.3s ease-in-out, transform 0.2s;
+}
+
+.btn-primary:hover {
+  background: rgba(128, 111, 58, 0.191);
+  color: white;
+  transform: scale(1.1);
+}
+
+/* Footer styling */
+footer {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+/* Scroll-to-section animation */
+html {
+  scroll-behavior: smooth;
+}
+
+
+
