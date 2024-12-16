@@ -1,12 +1,19 @@
-# FireDetectionAlarm
 
-To Run This Project Follow This Steps: 
+# Fire Detection Alarm System 🔥🚨
 
-First Install VS Code 3.7.9 64bit
+## Overview
+This is a **Fire Detection Alarm System** built using **React**, **HTML**, **CSS**, and **JavaScript**. The project demonstrates how to detect potential fire incidents and alert users with a simulation. It includes an interactive user interface and an output video showcasing the functionality.
 
-Install Two Packages
-i) #pip install opencv2
-ii) #pip install playsound
+---
 
-Now You Can Run it.
-To close Camera Popup Window Press " Q "
+## Features
+- Real-time fire detection simulation.
+- Intuitive user interface.
+- Dynamic alert system for fire detection.
+- Fully responsive design.
+
+---
+
+## Project Demo
+🎥
+
