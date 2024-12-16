@@ -12,7 +12,7 @@ const Header = () => {
                         <a class="nav-link text-white" href="#aboutTheProject">About the Project</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="#demo">Project Demo</a>
+                        <a class="nav-link text-white" href="#demo">Project Output</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-white" href="#download">Download Code</a>
